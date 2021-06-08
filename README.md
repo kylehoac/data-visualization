@@ -1,3 +1,3 @@
 # Pull Request
 
-[Link to PR](Link)
+[Link to PR](https://github.com/kylehoac/data-visualization/pull/2)
